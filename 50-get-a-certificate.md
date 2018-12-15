@@ -112,5 +112,3 @@ To see error logs or events about this process, run the following commands:
 - `kubectl describe certificate`: This should show the Certificate events.
 
 [cert-manager]: https://github.com/jetstack/cert-manager
-
-![Google Analytics](https://ga-beacon.appspot.com/UA-2609286-16/50-get-a-certificate?pixel)

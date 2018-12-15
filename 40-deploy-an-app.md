@@ -77,5 +77,3 @@ Then apply this manifest:
 
 -----
 
-
-![Google Analytics](https://ga-beacon.appspot.com/UA-2609286-16/40-deploy-an-app?pixel)
